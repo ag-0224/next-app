@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "_comment" : "이 프로젝트를 유지 보수하기 위한 명령어",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
